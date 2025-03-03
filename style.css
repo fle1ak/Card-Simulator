@@ -1,0 +1,88 @@
+.open {
+    background:rgb(240, 240, 240);
+    padding: 25px;
+    padding-left: 60px;
+    margin-top: 58px;
+    text-align: center;
+}
+.text-body-secondary {
+    margin-top: 20px;
+}
+.nav-link_active{
+    margin-bottom: -35px;
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+.card1 {
+    margin-top: 50px;
+    margin-left: 6%;
+}
+.card2 {
+    margin-left: 37.7%;
+    margin-top: -520px;
+}
+.card3 {
+    margin-left: 69%;
+    margin-top: -520px;
+}
+.dima {
+    height: 288px;
+}
+.coin {
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    margin-top: -5px;
+}
+.money {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 60%; 
+    text-decoration: none;
+    color: black;
+}
+.gem {
+    width: 31px;
+    height: 31px;
+    margin-top: -5px;
+}
+.maney {
+    font-size: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.market {
+    background:rgb(240, 240, 240);
+    padding: 30px;
+    padding-left: 60px;
+    margin-top: 58px;
+    text-align: center;
+}
+.card4 {
+    margin-top: 50px;
+    margin-left: 6%;
+}
+.card5 {
+    margin-left: 37.7%;
+    margin-top: -477px;
+}
+.card6 {
+    margin-left: 69%;
+    margin-top: -477px;
+}
+.hh {
+    font-size: 15px;
+}
+.aziz {
+    height: 288px;
+}
+.aa {
+    font-size: 17px;
+    margin-top: 7px;
+}
+.cain {
+    width: 28px;
+    border-radius: 50%;
+}
